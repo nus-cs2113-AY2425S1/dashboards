@@ -158,6 +158,6 @@ with(this){return _c('td',[_c('div',[_c('p',[_c('a',{attrs:{"href":"https://gith
 with(this){return _c('td',[_c('div',[_c('img',{attrs:{"src":"https://github.com/AY2425S1-CS2113-T11-4/tp/workflows/Java%20CI/badge.svg"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 10 Oct 2024, 23:07:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 10 Oct 2024, 23:32:44 GMT+8]")])])])}
 }];
   
